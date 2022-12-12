@@ -1,0 +1,17 @@
+C:\Users\Comp\source\repos\redac\redac\bin\Debug\net6.0\redac.exe
+C:\Users\Comp\source\repos\redac\redac\bin\Debug\net6.0\redac.deps.json
+C:\Users\Comp\source\repos\redac\redac\bin\Debug\net6.0\redac.runtimeconfig.json
+C:\Users\Comp\source\repos\redac\redac\bin\Debug\net6.0\redac.dll
+C:\Users\Comp\source\repos\redac\redac\bin\Debug\net6.0\redac.pdb
+C:\Users\Comp\source\repos\redac\redac\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.AssemblyInfo.cs
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.csproj.CopyComplete
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.dll
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\refint\redac.dll
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.pdb
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\redac.genruntimeconfig.cache
+C:\Users\Comp\source\repos\redac\redac\obj\Debug\net6.0\ref\redac.dll

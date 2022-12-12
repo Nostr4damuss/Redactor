@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXNKKJh4N9nkstR84PrS0VzU5AIIiDgWfbxT5JXbAYZG04dpKyBpvXGo2jMVp9je/2TiV+z5AcKrwnsUsbWpZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Comp\\source\\repos\\redac\\redac\\redac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Comp\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
